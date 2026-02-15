@@ -1,4 +1,24 @@
 {
+"Паттайя|Бангкок|Round": {
+    "Sedan": 2500,
+    "Toyota Innova": 3000,
+    "Toyota Fortuner": 3200,
+    "Toyota Commuter": 4000,
+    "Hyundai H1": 5000,
+    "Toyota Alphard": 10000,
+    "BMW 730": 25000,
+    "Mercedes S350": 25000
+},
+"Бангкок|Паттайя|Round": {
+    "Sedan": 2500,
+    "Toyota Innova": 3000,
+    "Toyota Fortuner": 3200,
+    "Toyota Commuter": 4000,
+    "Hyundai H1": 5000,
+    "Toyota Alphard": 10000,
+    "BMW 730": 25000,
+    "Mercedes S350": 25000
+}
     "Аэропорт Суварнабхуми (BKK)|Аэропорт Дон Муанг (DMK)": {
         "Sedan": 1000,
         "Toyota Innova": 1100,
