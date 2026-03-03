@@ -1,0 +1,1702 @@
+{
+    "Аэропорт Суварнабхуми (BKK)|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1000,
+        "Toyota Commuter": 1200,
+        "Hyundai H1": 2400,
+        "Toyota Alphard": 4400,
+        "BMW 730": 11200,
+        "Mercedes S350": 11200
+    },
+    "Аэропорт Суварнабхуми (BKK)|Аэропорт У-Тапао (UTP)": {
+        "Sedan": 1900,
+        "Toyota Innova": 2000,
+        "Toyota Fortuner": 1900,
+        "Toyota Commuter": 2100,
+        "Hyundai H1": 3900,
+        "Toyota Alphard": 7200,
+        "BMW 730": 18200,
+        "Mercedes S350": 18200
+    },
+    "Аэропорт Суварнабхуми (BKK)|Паттайя": {
+        "Sedan": 1200,
+        "Toyota Innova": 1300,
+        "Toyota Fortuner": 1200,
+        "Toyota Commuter": 1600,
+        "Hyundai H1": 3000,
+        "Toyota Alphard": 5500,
+        "BMW 730": 14000,
+        "Mercedes S350": 14000
+    },
+    "Аэропорт Суварнабхуми (BKK)|Бангкок": {
+        "Sedan": 800,
+        "Toyota Innova": 900,
+        "Toyota Fortuner": 800,
+        "Toyota Commuter": 1000,
+        "Hyundai H1": 2300,
+        "Toyota Alphard": 4200,
+        "BMW 730": 10700,
+        "Mercedes S350": 10700
+    },
+    "Аэропорт Суварнабхуми (BKK)|Хуа Хин (Ча Ам)": {
+        "Sedan": 2000,
+        "Toyota Innova": 2200,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2500,
+        "Hyundai H1": 3900,
+        "Toyota Alphard": 9000,
+        "BMW 730": 21000,
+        "Mercedes S350": 21000
+    },
+    "Аэропорт Суварнабхуми (BKK)|Ко Чанг": {
+        "Sedan": 3500,
+        "Toyota Innova": 3600,
+        "Toyota Fortuner": 3500,
+        "Toyota Commuter": 4000,
+        "Hyundai H1": 6200,
+        "Toyota Alphard": 14900,
+        "BMW 730": 34600,
+        "Mercedes S350": 34600
+    },
+    "Аэропорт Суварнабхуми (BKK)|Бан Пе (пирс на Ко Самет)": {
+        "Sedan": 2000,
+        "Toyota Innova": 2200,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2500,
+        "Hyundai H1": 3900,
+        "Toyota Alphard": 8100,
+        "BMW 730": 18900,
+        "Mercedes S350": 18900
+    },
+    "Аэропорт Суварнабхуми (BKK)|Районг": {
+        "Sedan": 2000,
+        "Toyota Innova": 2300,
+        "Toyota Fortuner": 2200,
+        "Toyota Commuter": 2500,
+        "Hyundai H1": 4300,
+        "Toyota Alphard": 9500,
+        "BMW 730": 23200,
+        "Mercedes S350": 23200
+    },
+    "Аэропорт Суварнабхуми (BKK)|Лаем Чабанг": {
+        "Sedan": 1500,
+        "Toyota Innova": 1600,
+        "Toyota Fortuner": 1500,
+        "Toyota Commuter": 1800,
+        "Hyundai H1": 3300,
+        "Toyota Alphard": 7000,
+        "BMW 730": 17500,
+        "Mercedes S350": 17500
+    },
+    "Аэропорт Суварнабхуми (BKK)|Чантабури": {
+        "Sedan": 3000,
+        "Toyota Innova": 3200,
+        "Toyota Fortuner": 3200,
+        "Toyota Commuter": 4100,
+        "Hyundai H1": 6900,
+        "Toyota Alphard": 14500,
+        "BMW 730": 34800,
+        "Mercedes S350": 34800
+    },
+    "Аэропорт Суварнабхуми (BKK)|Канчанабури и мост через Квай": {
+        "Sedan": 2400,
+        "Toyota Innova": 2700,
+        "Toyota Fortuner": 2800,
+        "Toyota Commuter": 3000,
+        "Hyundai H1": 5400,
+        "Toyota Alphard": 11500,
+        "BMW 730": 27900,
+        "Mercedes S350": 27900
+    },
+    "Аэропорт Суварнабхуми (BKK)|Пранбури": {
+        "Sedan": 3100,
+        "Toyota Innova": 3400,
+        "Toyota Fortuner": 3400,
+        "Toyota Commuter": 4400,
+        "Hyundai H1": 6800,
+        "Toyota Alphard": 15000,
+        "BMW 730": 35900,
+        "Mercedes S350": 35900
+    },
+    "Аэропорт Суварнабхуми (BKK)|Кхири Кхан": {
+        "Sedan": 4300,
+        "Toyota Innova": 4800,
+        "Toyota Fortuner": 4900,
+        "Toyota Commuter": 5600,
+        "Hyundai H1": 8000,
+        "Toyota Alphard": 21000,
+        "BMW 730": 49800,
+        "Mercedes S350": 49800
+    },
+    "Аэропорт Суварнабхуми (BKK)|Лопбури": {
+        "Sedan": 2400,
+        "Toyota Innova": 2800,
+        "Toyota Fortuner": 2800,
+        "Toyota Commuter": 3000,
+        "Hyundai H1": 5500,
+        "Toyota Alphard": 11500,
+        "BMW 730": 27900,
+        "Mercedes S350": 27900
+    },
+    "Аэропорт Суварнабхуми (BKK)|Сукхотай": {
+        "Sedan": 7200,
+        "Toyota Innova": 7900,
+        "Toyota Fortuner": 8000,
+        "Toyota Commuter": 10000,
+        "Hyundai H1": 16300,
+        "Toyota Alphard": 35500,
+        "BMW 730": 83300,
+        "Mercedes S350": 83300
+    },
+    "Аэропорт Суварнабхуми (BKK)|На Джомтьен": {
+        "Sedan": 1200,
+        "Toyota Innova": 1400,
+        "Toyota Fortuner": 1300,
+        "Toyota Commuter": 1600,
+        "Hyundai H1": 3100,
+        "Toyota Alphard": 5500,
+        "BMW 730": 14000,
+        "Mercedes S350": 14000
+    },
+    "Аэропорт Суварнабхуми (BKK)|Нахон Ратчасима": {
+        "Sedan": 5700,
+        "Toyota Innova": 6300,
+        "Toyota Fortuner": 6400,
+        "Toyota Commuter": 7600,
+        "Hyundai H1": 12500,
+        "Toyota Alphard": 28000,
+        "BMW 730": 66000,
+        "Mercedes S350": 66000
+    },
+    "Аэропорт Суварнабхуми (BKK)|Пхукет": {
+        "Sedan": 9900,
+        "Toyota Innova": 10800,
+        "Toyota Fortuner": 10900,
+        "Toyota Commuter": 13100,
+        "Hyundai H1": 20500,
+        "Toyota Alphard": 49000,
+        "BMW 730": 114500,
+        "Mercedes S350": 114500
+    },
+    "Аэропорт Суварнабхуми (BKK)|Краби": {
+        "Sedan": 11200,
+        "Toyota Innova": 12200,
+        "Toyota Fortuner": 12300,
+        "Toyota Commuter": 14400,
+        "Hyundai H1": 21900,
+        "Toyota Alphard": 55500,
+        "BMW 730": 129500,
+        "Mercedes S350": 129500
+    },
+    "Аэропорт Суварнабхуми (BKK)|Сураттани": {
+        "Sedan": 9800,
+        "Toyota Innova": 10700,
+        "Toyota Fortuner": 10800,
+        "Toyota Commuter": 12900,
+        "Hyundai H1": 20500,
+        "Toyota Alphard": 48500,
+        "BMW 730": 113300,
+        "Mercedes S350": 113300
+    },
+    "Аэропорт Суварнабхуми (BKK)|Банг Сарай": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1100,
+        "Toyota Commuter": 1500,
+        "Hyundai H1": 2900,
+        "Toyota Alphard": 4500,
+        "BMW 730": 11700,
+        "Mercedes S350": 11700
+    },
+    "Аэропорт Дон Муанг (DMK)|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1000,
+        "Toyota Commuter": 1200,
+        "Hyundai H1": 2400,
+        "Toyota Alphard": 4400,
+        "BMW 730": 11200,
+        "Mercedes S350": 11200
+    },
+    "Аэропорт Дон Муанг (DMK)|Аэропорт У-Тапао (UTP)": {
+        "Sedan": 2300,
+        "Toyota Innova": 2400,
+        "Toyota Fortuner": 2300,
+        "Toyota Commuter": 2700,
+        "Hyundai H1": 4400,
+        "Toyota Alphard": 8600,
+        "BMW 730": 20500,
+        "Mercedes S350": 20500
+    },
+    "Аэропорт Дон Муанг (DMK)|Паттайя": {
+        "Sedan": 1800,
+        "Toyota Innova": 2000,
+        "Toyota Fortuner": 1900,
+        "Toyota Commuter": 2300,
+        "Hyundai H1": 3500,
+        "Toyota Alphard": 6800,
+        "BMW 730": 16300,
+        "Mercedes S350": 16300
+    },
+    "Аэропорт Дон Муанг (DMK)|Бангкок": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1000,
+        "Toyota Commuter": 1200,
+        "Hyundai H1": 2400,
+        "Toyota Alphard": 4400,
+        "BMW 730": 11200,
+        "Mercedes S350": 11200
+    },
+    "Аэропорт Дон Муанг (DMK)|Хуа Хин (Ча Ам)": {
+        "Sedan": 2300,
+        "Toyota Innova": 2500,
+        "Toyota Fortuner": 2400,
+        "Toyota Commuter": 2800,
+        "Hyundai H1": 4200,
+        "Toyota Alphard": 9800,
+        "BMW 730": 22900,
+        "Mercedes S350": 22900
+    },
+    "Аэропорт Дон Муанг (DMK)|Ко Чанг": {
+        "Sedan": 4000,
+        "Toyota Innova": 4200,
+        "Toyota Fortuner": 4100,
+        "Toyota Commuter": 4600,
+        "Hyundai H1": 6700,
+        "Toyota Alphard": 16600,
+        "BMW 730": 38600,
+        "Mercedes S350": 38600
+    },
+    "Аэропорт Дон Муанг (DMK)|Бан Пе (пирс на Ко Самет)": {
+        "Sedan": 2500,
+        "Toyota Innova": 2700,
+        "Toyota Fortuner": 2600,
+        "Toyota Commuter": 3100,
+        "Hyundai H1": 4500,
+        "Toyota Alphard": 9800,
+        "BMW 730": 22900,
+        "Mercedes S350": 22900
+    },
+    "Аэропорт Дон Муанг (DMK)|Районг": {
+        "Sedan": 2300,
+        "Toyota Innova": 2600,
+        "Toyota Fortuner": 2500,
+        "Toyota Commuter": 3000,
+        "Hyundai H1": 5000,
+        "Toyota Alphard": 11000,
+        "BMW 730": 26700,
+        "Mercedes S350": 26700
+    },
+    "Аэропорт Дон Муанг (DMK)|Лаем Чабанг": {
+        "Sedan": 1600,
+        "Toyota Innova": 1700,
+        "Toyota Fortuner": 1600,
+        "Toyota Commuter": 1900,
+        "Hyundai H1": 3400,
+        "Toyota Alphard": 7500,
+        "BMW 730": 18600,
+        "Mercedes S350": 18600
+    },
+    "Аэропорт Дон Муанг (DMK)|Чантабури": {
+        "Sedan": 3100,
+        "Toyota Innova": 3300,
+        "Toyota Fortuner": 3300,
+        "Toyota Commuter": 4200,
+        "Hyundai H1": 7100,
+        "Toyota Alphard": 15000,
+        "BMW 730": 35900,
+        "Mercedes S350": 35900
+    },
+    "Аэропорт Дон Муанг (DMK)|Канчанабури и мост через Квай": {
+        "Sedan": 2300,
+        "Toyota Innova": 2600,
+        "Toyota Fortuner": 2700,
+        "Toyota Commuter": 2900,
+        "Hyundai H1": 5200,
+        "Toyota Alphard": 11000,
+        "BMW 730": 26700,
+        "Mercedes S350": 26700
+    },
+    "Аэропорт Дон Муанг (DMK)|Пранбури": {
+        "Sedan": 3200,
+        "Toyota Innova": 3600,
+        "Toyota Fortuner": 3500,
+        "Toyota Commuter": 4500,
+        "Hyundai H1": 6900,
+        "Toyota Alphard": 15500,
+        "BMW 730": 37100,
+        "Mercedes S350": 37100
+    },
+    "Аэропорт Дон Муанг (DMK)|Кхири Кхан": {
+        "Sedan": 4400,
+        "Toyota Innova": 4900,
+        "Toyota Fortuner": 5000,
+        "Toyota Commuter": 5700,
+        "Hyundai H1": 8200,
+        "Toyota Alphard": 21500,
+        "BMW 730": 50900,
+        "Mercedes S350": 50900
+    },
+    "Аэропорт Дон Муанг (DMK)|Лопбури": {
+        "Sedan": 2300,
+        "Toyota Innova": 2700,
+        "Toyota Fortuner": 2700,
+        "Toyota Commuter": 2900,
+        "Hyundai H1": 5400,
+        "Toyota Alphard": 11000,
+        "BMW 730": 26700,
+        "Mercedes S350": 26700
+    },
+    "Аэропорт Дон Муанг (DMK)|Сукхотай": {
+        "Sedan": 7300,
+        "Toyota Innova": 8100,
+        "Toyota Fortuner": 8100,
+        "Toyota Commuter": 10100,
+        "Hyundai H1": 16400,
+        "Toyota Alphard": 36000,
+        "BMW 730": 84400,
+        "Mercedes S350": 84400
+    },
+    "Аэропорт Дон Муанг (DMK)|На Джомтьен": {
+        "Sedan": 1800,
+        "Toyota Innova": 2100,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2300,
+        "Hyundai H1": 4000,
+        "Toyota Alphard": 8500,
+        "BMW 730": 20900,
+        "Mercedes S350": 20900
+    },
+    "Аэропорт Дон Муанг (DMK)|Нахон Ратчасима": {
+        "Sedan": 5800,
+        "Toyota Innova": 6400,
+        "Toyota Fortuner": 6500,
+        "Toyota Commuter": 7700,
+        "Hyundai H1": 12700,
+        "Toyota Alphard": 28500,
+        "BMW 730": 67100,
+        "Mercedes S350": 67100
+    },
+    "Аэропорт Дон Муанг (DMK)|Банг Сарай": {
+        "Sedan": 1700,
+        "Toyota Innova": 1800,
+        "Toyota Fortuner": 1800,
+        "Toyota Commuter": 2200,
+        "Hyundai H1": 3800,
+        "Toyota Alphard": 8000,
+        "BMW 730": 19800,
+        "Mercedes S350": 19800
+    },
+    "Аэропорт У-Тапао (UTP)|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 1900,
+        "Toyota Innova": 2000,
+        "Toyota Fortuner": 1900,
+        "Toyota Commuter": 2100,
+        "Hyundai H1": 3900,
+        "Toyota Alphard": 7200,
+        "BMW 730": 18200,
+        "Mercedes S350": 18200
+    },
+    "Аэропорт У-Тапао (UTP)|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 2300,
+        "Toyota Innova": 2400,
+        "Toyota Fortuner": 2300,
+        "Toyota Commuter": 2700,
+        "Hyundai H1": 4400,
+        "Toyota Alphard": 8600,
+        "BMW 730": 20500,
+        "Mercedes S350": 20500
+    },
+    "Аэропорт У-Тапао (UTP)|Паттайя": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1000,
+        "Toyota Commuter": 1200,
+        "Hyundai H1": 2500,
+        "Toyota Alphard": 4600,
+        "BMW 730": 11700,
+        "Mercedes S350": 11700
+    },
+    "Аэропорт У-Тапао (UTP)|Бангкок": {
+        "Sedan": 2100,
+        "Toyota Innova": 2200,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2500,
+        "Hyundai H1": 4300,
+        "Toyota Alphard": 7900,
+        "BMW 730": 20100,
+        "Mercedes S350": 20100
+    },
+    "Аэропорт У-Тапао (UTP)|Хуа Хин (Ча Ам)": {
+        "Sedan": 1900,
+        "Toyota Innova": 2000,
+        "Toyota Fortuner": 1900,
+        "Toyota Commuter": 2200,
+        "Hyundai H1": 5200,
+        "Toyota Alphard": 9500,
+        "BMW 730": 24300,
+        "Mercedes S350": 24300
+    },
+    "Аэропорт У-Тапао (UTP)|Ко Чанг": {
+        "Sedan": 2700,
+        "Toyota Innova": 2900,
+        "Toyota Fortuner": 2900,
+        "Toyota Commuter": 3300,
+        "Hyundai H1": 6800,
+        "Toyota Alphard": 12500,
+        "BMW 730": 31700,
+        "Mercedes S350": 31700
+    },
+    "Аэропорт У-Тапао (UTP)|Бан Пе (пирс на Ко Самет)": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1000,
+        "Toyota Commuter": 1200,
+        "Hyundai H1": 2900,
+        "Toyota Alphard": 5300,
+        "BMW 730": 13500,
+        "Mercedes S350": 13500
+    },
+    "Аэропорт У-Тапао (UTP)|Лаем Чабанг": {
+        "Sedan": 1400,
+        "Toyota Innova": 1500,
+        "Toyota Fortuner": 1400,
+        "Toyota Commuter": 1700,
+        "Hyundai H1": 3100,
+        "Toyota Alphard": 6500,
+        "BMW 730": 16300,
+        "Mercedes S350": 16300
+    },
+    "Паттайя|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 1200,
+        "Toyota Innova": 1300,
+        "Toyota Fortuner": 1200,
+        "Toyota Commuter": 1600,
+        "Hyundai H1": 3000,
+        "Toyota Alphard": 5500,
+        "BMW 730": 14000,
+        "Mercedes S350": 14000
+    },
+    "Паттайя|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 1800,
+        "Toyota Innova": 2000,
+        "Toyota Fortuner": 1900,
+        "Toyota Commuter": 2300,
+        "Hyundai H1": 3500,
+        "Toyota Alphard": 6800,
+        "BMW 730": 16300,
+        "Mercedes S350": 16300
+    },
+    "Паттайя|Аэропорт У-Тапао (UTP)": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1000,
+        "Toyota Commuter": 1200,
+        "Hyundai H1": 2500,
+        "Toyota Alphard": 4600,
+        "BMW 730": 11700,
+        "Mercedes S350": 11700
+    },
+    "Паттайя|Бангкок": {
+        "Sedan": 1500,
+        "Toyota Innova": 1600,
+        "Toyota Fortuner": 1600,
+        "Toyota Commuter": 2000,
+        "Hyundai H1": 3500,
+        "Toyota Alphard": 6400,
+        "BMW 730": 16300,
+        "Mercedes S350": 16300
+    },
+    "Паттайя|Хуа Хин (Ча Ам)": {
+        "Sedan": 2900,
+        "Toyota Innova": 3100,
+        "Toyota Fortuner": 3000,
+        "Toyota Commuter": 4100,
+        "Hyundai H1": 5900,
+        "Toyota Alphard": 10800,
+        "BMW 730": 27500,
+        "Mercedes S350": 27500
+    },
+    "Паттайя|Ко Чанг": {
+        "Sedan": 3100,
+        "Toyota Innova": 3200,
+        "Toyota Fortuner": 3100,
+        "Toyota Commuter": 3600,
+        "Hyundai H1": 5500,
+        "Toyota Alphard": 11000,
+        "BMW 730": 25700,
+        "Mercedes S350": 25700
+    },
+    "Паттайя|Бан Пе (пирс на Ко Самет)": {
+        "Sedan": 1400,
+        "Toyota Innova": 1500,
+        "Toyota Fortuner": 1600,
+        "Toyota Commuter": 1700,
+        "Hyundai H1": 2700,
+        "Toyota Alphard": 5000,
+        "BMW 730": 12600,
+        "Mercedes S350": 12600
+    },
+    "Паттайя|Районг": {
+        "Sedan": 1100,
+        "Toyota Innova": 1200,
+        "Toyota Fortuner": 1100,
+        "Toyota Commuter": 1300,
+        "Hyundai H1": 3100,
+        "Toyota Alphard": 5000,
+        "BMW 730": 12800,
+        "Mercedes S350": 12800
+    },
+    "Паттайя|Лаем Чабанг": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1000,
+        "Toyota Commuter": 1200,
+        "Hyundai H1": 2400,
+        "Toyota Alphard": 4500,
+        "BMW 730": 11700,
+        "Mercedes S350": 11700
+    },
+    "Паттайя|Чантабури": {
+        "Sedan": 2800,
+        "Toyota Innova": 3000,
+        "Toyota Fortuner": 3000,
+        "Toyota Commuter": 3900,
+        "Hyundai H1": 6600,
+        "Toyota Alphard": 13500,
+        "BMW 730": 32500,
+        "Mercedes S350": 32500
+    },
+    "Паттайя|Канчанабури и мост через Квай": {
+        "Sedan": 3700,
+        "Toyota Innova": 4100,
+        "Toyota Fortuner": 4100,
+        "Toyota Commuter": 5100,
+        "Hyundai H1": 8200,
+        "Toyota Alphard": 18000,
+        "BMW 730": 42900,
+        "Mercedes S350": 42900
+    },
+    "Паттайя|Пранбури": {
+        "Sedan": 3400,
+        "Toyota Innova": 4100,
+        "Toyota Fortuner": 4100,
+        "Toyota Commuter": 5400,
+        "Hyundai H1": 9900,
+        "Toyota Alphard": 16500,
+        "BMW 730": 39400,
+        "Mercedes S350": 39400
+    },
+    "Паттайя|Кхири Кхан": {
+        "Sedan": 5200,
+        "Toyota Innova": 5800,
+        "Toyota Fortuner": 5800,
+        "Toyota Commuter": 7300,
+        "Hyundai H1": 12400,
+        "Toyota Alphard": 25500,
+        "BMW 730": 60200,
+        "Mercedes S350": 60200
+    },
+    "Паттайя|Лопбури": {
+        "Sedan": 3700,
+        "Toyota Innova": 4200,
+        "Toyota Fortuner": 4300,
+        "Toyota Commuter": 5100,
+        "Hyundai H1": 8500,
+        "Toyota Alphard": 18000,
+        "BMW 730": 42900,
+        "Mercedes S350": 42900
+    },
+    "Паттайя|Сукхотай": {
+        "Sedan": 8700,
+        "Toyota Innova": 9600,
+        "Toyota Fortuner": 9600,
+        "Toyota Commuter": 11600,
+        "Hyundai H1": 18400,
+        "Toyota Alphard": 43000,
+        "BMW 730": 100600,
+        "Mercedes S350": 100600
+    },
+    "Паттайя|Нахон Ратчасима": {
+        "Sedan": 6200,
+        "Toyota Innova": 6900,
+        "Toyota Fortuner": 7000,
+        "Toyota Commuter": 8100,
+        "Hyundai H1": 13200,
+        "Toyota Alphard": 30500,
+        "BMW 730": 71700,
+        "Mercedes S350": 71700
+    },
+    "Паттайя|Пхукет": {
+        "Sedan": 11500,
+        "Toyota Innova": 12600,
+        "Toyota Fortuner": 12600,
+        "Toyota Commuter": 14700,
+        "Hyundai H1": 22700,
+        "Toyota Alphard": 57000,
+        "BMW 730": 132900,
+        "Mercedes S350": 132900
+    },
+    "Паттайя|Краби": {
+        "Sedan": 12800,
+        "Toyota Innova": 14000,
+        "Toyota Fortuner": 14000,
+        "Toyota Commuter": 16100,
+        "Hyundai H1": 24100,
+        "Toyota Alphard": 63500,
+        "BMW 730": 148000,
+        "Mercedes S350": 148000
+    },
+    "Паттайя|Сураттани": {
+        "Sedan": 11500,
+        "Toyota Innova": 12600,
+        "Toyota Fortuner": 12600,
+        "Toyota Commuter": 14700,
+        "Hyundai H1": 22700,
+        "Toyota Alphard": 57000,
+        "BMW 730": 132900,
+        "Mercedes S350": 132900
+    },
+    "Бангкок|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 800,
+        "Toyota Innova": 900,
+        "Toyota Fortuner": 800,
+        "Toyota Commuter": 1000,
+        "Hyundai H1": 2300,
+        "Toyota Alphard": 4200,
+        "BMW 730": 10700,
+        "Mercedes S350": 10700
+    },
+    "Бангкок|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1000,
+        "Toyota Commuter": 1200,
+        "Hyundai H1": 2400,
+        "Toyota Alphard": 4400,
+        "BMW 730": 11200,
+        "Mercedes S350": 11200
+    },
+    "Бангкок|Аэропорт У-Тапао (UTP)": {
+        "Sedan": 2100,
+        "Toyota Innova": 2200,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2500,
+        "Hyundai H1": 4300,
+        "Toyota Alphard": 7900,
+        "BMW 730": 20100,
+        "Mercedes S350": 20100
+    },
+    "Бангкок|Паттайя": {
+        "Sedan": 1500,
+        "Toyota Innova": 1600,
+        "Toyota Fortuner": 1600,
+        "Toyota Commuter": 2000,
+        "Hyundai H1": 3500,
+        "Toyota Alphard": 6400,
+        "BMW 730": 16300,
+        "Mercedes S350": 16300
+    },
+    "Бангкок|Хуа Хин (Ча Ам)": {
+        "Sedan": 2000,
+        "Toyota Innova": 2200,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2500,
+        "Hyundai H1": 3900,
+        "Toyota Alphard": 8600,
+        "BMW 730": 20000,
+        "Mercedes S350": 20000
+    },
+    "Бангкок|Ко Чанг": {
+        "Sedan": 3800,
+        "Toyota Innova": 4000,
+        "Toyota Fortuner": 3700,
+        "Toyota Commuter": 4400,
+        "Hyundai H1": 6400,
+        "Toyota Alphard": 16300,
+        "BMW 730": 37900,
+        "Mercedes S350": 37900
+    },
+    "Бангкок|Бан Пе (пирс на Ко Самет)": {
+        "Sedan": 2900,
+        "Toyota Innova": 3100,
+        "Toyota Fortuner": 2300,
+        "Toyota Commuter": 4400,
+        "Hyundai H1": 4100,
+        "Toyota Alphard": 9400,
+        "BMW 730": 21900,
+        "Mercedes S350": 21900
+    },
+    "Бангкок|Районг": {
+        "Sedan": 2200,
+        "Toyota Innova": 2500,
+        "Toyota Fortuner": 2400,
+        "Toyota Commuter": 2800,
+        "Hyundai H1": 4500,
+        "Toyota Alphard": 10500,
+        "BMW 730": 25600,
+        "Mercedes S350": 25600
+    },
+    "Бангкок|Лаем Чабанг": {
+        "Sedan": 1400,
+        "Toyota Innova": 1500,
+        "Toyota Fortuner": 1400,
+        "Toyota Commuter": 1700,
+        "Hyundai H1": 3100,
+        "Toyota Alphard": 6500,
+        "BMW 730": 16300,
+        "Mercedes S350": 16300
+    },
+    "Бангкок|Чантабури": {
+        "Sedan": 3000,
+        "Toyota Innova": 3200,
+        "Toyota Fortuner": 3200,
+        "Toyota Commuter": 4100,
+        "Hyundai H1": 6900,
+        "Toyota Alphard": 14500,
+        "BMW 730": 34800,
+        "Mercedes S350": 34800
+    },
+    "Бангкок|Канчанабури и мост через Квай": {
+        "Sedan": 2200,
+        "Toyota Innova": 2500,
+        "Toyota Fortuner": 2600,
+        "Toyota Commuter": 2800,
+        "Hyundai H1": 5100,
+        "Toyota Alphard": 10500,
+        "BMW 730": 25600,
+        "Mercedes S350": 25600
+    },
+    "Бангкок|Пранбури": {
+        "Sedan": 3100,
+        "Toyota Innova": 3400,
+        "Toyota Fortuner": 3400,
+        "Toyota Commuter": 4400,
+        "Hyundai H1": 6800,
+        "Toyota Alphard": 15000,
+        "BMW 730": 35900,
+        "Mercedes S350": 35900
+    },
+    "Бангкок|Кхири Кхан": {
+        "Sedan": 4300,
+        "Toyota Innova": 4800,
+        "Toyota Fortuner": 4900,
+        "Toyota Commuter": 5600,
+        "Hyundai H1": 8000,
+        "Toyota Alphard": 21000,
+        "BMW 730": 49800,
+        "Mercedes S350": 49800
+    },
+    "Бангкок|Лопбури": {
+        "Sedan": 2200,
+        "Toyota Innova": 2600,
+        "Toyota Fortuner": 2600,
+        "Toyota Commuter": 2800,
+        "Hyundai H1": 5200,
+        "Toyota Alphard": 10500,
+        "BMW 730": 25600,
+        "Mercedes S350": 25600
+    },
+    "Бангкок|Сукхотай": {
+        "Sedan": 7200,
+        "Toyota Innova": 7900,
+        "Toyota Fortuner": 8000,
+        "Toyota Commuter": 10000,
+        "Hyundai H1": 16300,
+        "Toyota Alphard": 35500,
+        "BMW 730": 83300,
+        "Mercedes S350": 83300
+    },
+    "Бангкок|На Джомтьен": {
+        "Sedan": 1500,
+        "Toyota Innova": 1700,
+        "Toyota Fortuner": 1700,
+        "Toyota Commuter": 2000,
+        "Hyundai H1": 3600,
+        "Toyota Alphard": 7000,
+        "BMW 730": 17500,
+        "Mercedes S350": 17500
+    },
+    "Бангкок|Нахон Ратчасима": {
+        "Sedan": 5700,
+        "Toyota Innova": 6300,
+        "Toyota Fortuner": 6400,
+        "Toyota Commuter": 7600,
+        "Hyundai H1": 12500,
+        "Toyota Alphard": 28000,
+        "BMW 730": 66000,
+        "Mercedes S350": 66000
+    },
+    "Бангкок|Пхукет": {
+        "Sedan": 9900,
+        "Toyota Innova": 10800,
+        "Toyota Fortuner": 10900,
+        "Toyota Commuter": 13100,
+        "Hyundai H1": 20500,
+        "Toyota Alphard": 49000,
+        "BMW 730": 114500,
+        "Mercedes S350": 114500
+    },
+    "Бангкок|Краби": {
+        "Sedan": 11200,
+        "Toyota Innova": 12200,
+        "Toyota Fortuner": 12300,
+        "Toyota Commuter": 14400,
+        "Hyundai H1": 21900,
+        "Toyota Alphard": 55500,
+        "BMW 730": 129500,
+        "Mercedes S350": 129500
+    },
+    "Бангкок|Сураттани": {
+        "Sedan": 9800,
+        "Toyota Innova": 10700,
+        "Toyota Fortuner": 10800,
+        "Toyota Commuter": 12900,
+        "Hyundai H1": 20500,
+        "Toyota Alphard": 48500,
+        "BMW 730": 113300,
+        "Mercedes S350": 113300
+    },
+    "Бангкок|Банг Сарай": {
+        "Sedan": 1400,
+        "Toyota Innova": 1500,
+        "Toyota Fortuner": 1500,
+        "Toyota Commuter": 1900,
+        "Hyundai H1": 3400,
+        "Toyota Alphard": 6500,
+        "BMW 730": 16300,
+        "Mercedes S350": 16300
+    },
+    "Хуа Хин (Ча Ам)|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 2000,
+        "Toyota Innova": 2200,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2500,
+        "Hyundai H1": 3900,
+        "Toyota Alphard": 9000,
+        "BMW 730": 21000,
+        "Mercedes S350": 21000
+    },
+    "Хуа Хин (Ча Ам)|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 2300,
+        "Toyota Innova": 2500,
+        "Toyota Fortuner": 2400,
+        "Toyota Commuter": 2800,
+        "Hyundai H1": 4200,
+        "Toyota Alphard": 9800,
+        "BMW 730": 22900,
+        "Mercedes S350": 22900
+    },
+    "Хуа Хин (Ча Ам)|Аэропорт У-Тапао (UTP)": {
+        "Sedan": 1900,
+        "Toyota Innova": 2000,
+        "Toyota Fortuner": 1900,
+        "Toyota Commuter": 2200,
+        "Hyundai H1": 5200,
+        "Toyota Alphard": 9500,
+        "BMW 730": 24300,
+        "Mercedes S350": 24300
+    },
+    "Хуа Хин (Ча Ам)|Паттайя": {
+        "Sedan": 2900,
+        "Toyota Innova": 3100,
+        "Toyota Fortuner": 3000,
+        "Toyota Commuter": 4100,
+        "Hyundai H1": 5900,
+        "Toyota Alphard": 10800,
+        "BMW 730": 27500,
+        "Mercedes S350": 27500
+    },
+    "Хуа Хин (Ча Ам)|Бангкок": {
+        "Sedan": 2000,
+        "Toyota Innova": 2200,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2500,
+        "Hyundai H1": 3900,
+        "Toyota Alphard": 8600,
+        "BMW 730": 20000,
+        "Mercedes S350": 20000
+    },
+    "Хуа Хин (Ча Ам)|Лаем Чабанг": {
+        "Sedan": 2900,
+        "Toyota Innova": 3300,
+        "Toyota Fortuner": 3300,
+        "Toyota Commuter": 4000,
+        "Hyundai H1": 6500,
+        "Toyota Alphard": 14000,
+        "BMW 730": 33600,
+        "Mercedes S350": 33600
+    },
+    "Ко Чанг|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 3500,
+        "Toyota Innova": 3600,
+        "Toyota Fortuner": 3500,
+        "Toyota Commuter": 4000,
+        "Hyundai H1": 6200,
+        "Toyota Alphard": 14900,
+        "BMW 730": 34600,
+        "Mercedes S350": 34600
+    },
+    "Ко Чанг|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 4000,
+        "Toyota Innova": 4200,
+        "Toyota Fortuner": 4100,
+        "Toyota Commuter": 4600,
+        "Hyundai H1": 6700,
+        "Toyota Alphard": 16600,
+        "BMW 730": 38600,
+        "Mercedes S350": 38600
+    },
+    "Ко Чанг|Аэропорт У-Тапао (UTP)": {
+        "Sedan": 2700,
+        "Toyota Innova": 2900,
+        "Toyota Fortuner": 2900,
+        "Toyota Commuter": 3300,
+        "Hyundai H1": 6800,
+        "Toyota Alphard": 12500,
+        "BMW 730": 31700,
+        "Mercedes S350": 31700
+    },
+    "Ко Чанг|Паттайя": {
+        "Sedan": 3100,
+        "Toyota Innova": 3200,
+        "Toyota Fortuner": 3100,
+        "Toyota Commuter": 3600,
+        "Hyundai H1": 5500,
+        "Toyota Alphard": 11000,
+        "BMW 730": 25700,
+        "Mercedes S350": 25700
+    },
+    "Ко Чанг|Бангкок": {
+        "Sedan": 3800,
+        "Toyota Innova": 4000,
+        "Toyota Fortuner": 3700,
+        "Toyota Commuter": 4400,
+        "Hyundai H1": 6400,
+        "Toyota Alphard": 16300,
+        "BMW 730": 37900,
+        "Mercedes S350": 37900
+    },
+    "Ко Чанг|Бан Пе (пирс на Ко Самет)": {
+        "Sedan": 3101,
+        "Toyota Innova": 3337,
+        "Toyota Fortuner": 3228,
+        "Toyota Commuter": 3701,
+        "Hyundai H1": 6501,
+        "Toyota Alphard": 15005,
+        "BMW 730": 35935,
+        "Mercedes S350": 35935
+    },
+    "Ко Чанг|Районг": {
+        "Sedan": 3100,
+        "Toyota Innova": 3300,
+        "Toyota Fortuner": 3200,
+        "Toyota Commuter": 3700,
+        "Hyundai H1": 6500,
+        "Toyota Alphard": 15000,
+        "BMW 730": 35900,
+        "Mercedes S350": 35900
+    },
+    "Ко Чанг|Лаем Чабанг": {
+        "Sedan": 3200,
+        "Toyota Innova": 3400,
+        "Toyota Fortuner": 3300,
+        "Toyota Commuter": 3800,
+        "Hyundai H1": 6800,
+        "Toyota Alphard": 15500,
+        "BMW 730": 37100,
+        "Mercedes S350": 37100
+    },
+    "Бан Пе (пирс на Ко Самет)|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 2000,
+        "Toyota Innova": 2200,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2500,
+        "Hyundai H1": 3900,
+        "Toyota Alphard": 8100,
+        "BMW 730": 18900,
+        "Mercedes S350": 18900
+    },
+    "Бан Пе (пирс на Ко Самет)|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 2500,
+        "Toyota Innova": 2700,
+        "Toyota Fortuner": 2600,
+        "Toyota Commuter": 3100,
+        "Hyundai H1": 4500,
+        "Toyota Alphard": 9800,
+        "BMW 730": 22900,
+        "Mercedes S350": 22900
+    },
+    "Бан Пе (пирс на Ко Самет)|Аэропорт У-Тапао (UTP)": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1000,
+        "Toyota Commuter": 1200,
+        "Hyundai H1": 2900,
+        "Toyota Alphard": 5300,
+        "BMW 730": 13500,
+        "Mercedes S350": 13500
+    },
+    "Бан Пе (пирс на Ко Самет)|Паттайя": {
+        "Sedan": 1400,
+        "Toyota Innova": 1500,
+        "Toyota Fortuner": 1600,
+        "Toyota Commuter": 1700,
+        "Hyundai H1": 2700,
+        "Toyota Alphard": 5000,
+        "BMW 730": 12600,
+        "Mercedes S350": 12600
+    },
+    "Бан Пе (пирс на Ко Самет)|Бангкок": {
+        "Sedan": 2900,
+        "Toyota Innova": 3100,
+        "Toyota Fortuner": 2300,
+        "Toyota Commuter": 4400,
+        "Hyundai H1": 4100,
+        "Toyota Alphard": 9400,
+        "BMW 730": 21900,
+        "Mercedes S350": 21900
+    },
+    "Бан Пе (пирс на Ко Самет)|Ко Чанг": {
+        "Sedan": 3101,
+        "Toyota Innova": 3337,
+        "Toyota Fortuner": 3228,
+        "Toyota Commuter": 3701,
+        "Hyundai H1": 6501,
+        "Toyota Alphard": 15005,
+        "BMW 730": 35935,
+        "Mercedes S350": 35935
+    },
+    "Бан Пе (пирс на Ко Самет)|Районг": {
+        "Sedan": 1100,
+        "Toyota Innova": 1200,
+        "Toyota Fortuner": 1100,
+        "Toyota Commuter": 1300,
+        "Hyundai H1": 2600,
+        "Toyota Alphard": 5000,
+        "BMW 730": 12800,
+        "Mercedes S350": 12800
+    },
+    "Бан Пе (пирс на Ко Самет)|Лаем Чабанг": {
+        "Sedan": 1900,
+        "Toyota Innova": 2200,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2400,
+        "Hyundai H1": 4100,
+        "Toyota Alphard": 9000,
+        "BMW 730": 22100,
+        "Mercedes S350": 22100
+    },
+    "Районг|Паттайя": {
+        "Sedan": 1100,
+        "Toyota Innova": 1200,
+        "Toyota Fortuner": 1100,
+        "Toyota Commuter": 1300,
+        "Hyundai H1": 3100,
+        "Toyota Alphard": 5000,
+        "BMW 730": 12800,
+        "Mercedes S350": 12800
+    },
+    "Районг|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 2000,
+        "Toyota Innova": 2300,
+        "Toyota Fortuner": 2200,
+        "Toyota Commuter": 2500,
+        "Hyundai H1": 4300,
+        "Toyota Alphard": 9500,
+        "BMW 730": 23200,
+        "Mercedes S350": 23200
+    },
+    "Районг|Бангкок": {
+        "Sedan": 2200,
+        "Toyota Innova": 2500,
+        "Toyota Fortuner": 2400,
+        "Toyota Commuter": 2800,
+        "Hyundai H1": 4500,
+        "Toyota Alphard": 10500,
+        "BMW 730": 25600,
+        "Mercedes S350": 25600
+    },
+    "Районг|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 2300,
+        "Toyota Innova": 2600,
+        "Toyota Fortuner": 2500,
+        "Toyota Commuter": 3000,
+        "Hyundai H1": 5000,
+        "Toyota Alphard": 11000,
+        "BMW 730": 26700,
+        "Mercedes S350": 26700
+    },
+    "Районг|Ко Чанг": {
+        "Sedan": 3100,
+        "Toyota Innova": 3300,
+        "Toyota Fortuner": 3200,
+        "Toyota Commuter": 3700,
+        "Hyundai H1": 6500,
+        "Toyota Alphard": 15000,
+        "BMW 730": 35900,
+        "Mercedes S350": 35900
+    },
+    "Районг|Бан Пе (пирс на Ко Самет)": {
+        "Sedan": 1100,
+        "Toyota Innova": 1200,
+        "Toyota Fortuner": 1100,
+        "Toyota Commuter": 1300,
+        "Hyundai H1": 2600,
+        "Toyota Alphard": 5000,
+        "BMW 730": 12800,
+        "Mercedes S350": 12800
+    },
+    "Районг|Лаем Чабанг": {
+        "Sedan": 2000,
+        "Toyota Innova": 2300,
+        "Toyota Fortuner": 2300,
+        "Toyota Commuter": 2900,
+        "Hyundai H1": 5200,
+        "Toyota Alphard": 9500,
+        "BMW 730": 23200,
+        "Mercedes S350": 23200
+    },
+    "Лаем Чабанг|Паттайя": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1000,
+        "Toyota Commuter": 1200,
+        "Hyundai H1": 2400,
+        "Toyota Alphard": 4500,
+        "BMW 730": 11700,
+        "Mercedes S350": 11700
+    },
+    "Лаем Чабанг|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 1500,
+        "Toyota Innova": 1600,
+        "Toyota Fortuner": 1500,
+        "Toyota Commuter": 1800,
+        "Hyundai H1": 3300,
+        "Toyota Alphard": 7000,
+        "BMW 730": 17500,
+        "Mercedes S350": 17500
+    },
+    "Лаем Чабанг|Бангкок": {
+        "Sedan": 1400,
+        "Toyota Innova": 1500,
+        "Toyota Fortuner": 1400,
+        "Toyota Commuter": 1700,
+        "Hyundai H1": 3100,
+        "Toyota Alphard": 6500,
+        "BMW 730": 16300,
+        "Mercedes S350": 16300
+    },
+    "Лаем Чабанг|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 1600,
+        "Toyota Innova": 1700,
+        "Toyota Fortuner": 1600,
+        "Toyota Commuter": 1900,
+        "Hyundai H1": 3400,
+        "Toyota Alphard": 7500,
+        "BMW 730": 18600,
+        "Mercedes S350": 18600
+    },
+    "Лаем Чабанг|Хуа Хин (Ча Ам)": {
+        "Sedan": 2900,
+        "Toyota Innova": 3300,
+        "Toyota Fortuner": 3300,
+        "Toyota Commuter": 4000,
+        "Hyundai H1": 6500,
+        "Toyota Alphard": 14000,
+        "BMW 730": 33600,
+        "Mercedes S350": 33600
+    },
+    "Лаем Чабанг|Ко Чанг": {
+        "Sedan": 3200,
+        "Toyota Innova": 3400,
+        "Toyota Fortuner": 3300,
+        "Toyota Commuter": 3800,
+        "Hyundai H1": 6800,
+        "Toyota Alphard": 15500,
+        "BMW 730": 37100,
+        "Mercedes S350": 37100
+    },
+    "Лаем Чабанг|Бан Пе (пирс на Ко Самет)": {
+        "Sedan": 1900,
+        "Toyota Innova": 2200,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2400,
+        "Hyundai H1": 4100,
+        "Toyota Alphard": 9000,
+        "BMW 730": 22100,
+        "Mercedes S350": 22100
+    },
+    "Лаем Чабанг|Районг": {
+        "Sedan": 2000,
+        "Toyota Innova": 2300,
+        "Toyota Fortuner": 2300,
+        "Toyota Commuter": 2900,
+        "Hyundai H1": 5200,
+        "Toyota Alphard": 9500,
+        "BMW 730": 23200,
+        "Mercedes S350": 23200
+    },
+    "Лаем Чабанг|Аэропорт У-Тапао (UTP)": {
+        "Sedan": 1400,
+        "Toyota Innova": 1500,
+        "Toyota Fortuner": 1400,
+        "Toyota Commuter": 1700,
+        "Hyundai H1": 3100,
+        "Toyota Alphard": 6500,
+        "BMW 730": 16300,
+        "Mercedes S350": 16300
+    },
+    "Чантабури|Паттайя": {
+        "Sedan": 2800,
+        "Toyota Innova": 3000,
+        "Toyota Fortuner": 3000,
+        "Toyota Commuter": 3900,
+        "Hyundai H1": 6600,
+        "Toyota Alphard": 13500,
+        "BMW 730": 32500,
+        "Mercedes S350": 32500
+    },
+    "Чантабури|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 3000,
+        "Toyota Innova": 3200,
+        "Toyota Fortuner": 3200,
+        "Toyota Commuter": 4100,
+        "Hyundai H1": 6900,
+        "Toyota Alphard": 14500,
+        "BMW 730": 34800,
+        "Mercedes S350": 34800
+    },
+    "Чантабури|Бангкок": {
+        "Sedan": 3000,
+        "Toyota Innova": 3200,
+        "Toyota Fortuner": 3200,
+        "Toyota Commuter": 4100,
+        "Hyundai H1": 6900,
+        "Toyota Alphard": 14500,
+        "BMW 730": 34800,
+        "Mercedes S350": 34800
+    },
+    "Чантабури|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 3100,
+        "Toyota Innova": 3300,
+        "Toyota Fortuner": 3300,
+        "Toyota Commuter": 4200,
+        "Hyundai H1": 7100,
+        "Toyota Alphard": 15000,
+        "BMW 730": 35900,
+        "Mercedes S350": 35900
+    },
+    "Канчанабури и мост через Квай|Паттайя": {
+        "Sedan": 3700,
+        "Toyota Innova": 4100,
+        "Toyota Fortuner": 4100,
+        "Toyota Commuter": 5100,
+        "Hyundai H1": 8200,
+        "Toyota Alphard": 18000,
+        "BMW 730": 42900,
+        "Mercedes S350": 42900
+    },
+    "Канчанабури и мост через Квай|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 2400,
+        "Toyota Innova": 2700,
+        "Toyota Fortuner": 2800,
+        "Toyota Commuter": 3000,
+        "Hyundai H1": 5400,
+        "Toyota Alphard": 11500,
+        "BMW 730": 27900,
+        "Mercedes S350": 27900
+    },
+    "Канчанабури и мост через Квай|Бангкок": {
+        "Sedan": 2200,
+        "Toyota Innova": 2500,
+        "Toyota Fortuner": 2600,
+        "Toyota Commuter": 2800,
+        "Hyundai H1": 5100,
+        "Toyota Alphard": 10500,
+        "BMW 730": 25600,
+        "Mercedes S350": 25600
+    },
+    "Канчанабури и мост через Квай|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 2300,
+        "Toyota Innova": 2600,
+        "Toyota Fortuner": 2700,
+        "Toyota Commuter": 2900,
+        "Hyundai H1": 5200,
+        "Toyota Alphard": 11000,
+        "BMW 730": 26700,
+        "Mercedes S350": 26700
+    },
+    "Пранбури|Паттайя": {
+        "Sedan": 3400,
+        "Toyota Innova": 4100,
+        "Toyota Fortuner": 4100,
+        "Toyota Commuter": 5400,
+        "Hyundai H1": 9900,
+        "Toyota Alphard": 16500,
+        "BMW 730": 39400,
+        "Mercedes S350": 39400
+    },
+    "Пранбури|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 3100,
+        "Toyota Innova": 3400,
+        "Toyota Fortuner": 3400,
+        "Toyota Commuter": 4400,
+        "Hyundai H1": 6800,
+        "Toyota Alphard": 15000,
+        "BMW 730": 35900,
+        "Mercedes S350": 35900
+    },
+    "Пранбури|Бангкок": {
+        "Sedan": 3100,
+        "Toyota Innova": 3400,
+        "Toyota Fortuner": 3400,
+        "Toyota Commuter": 4400,
+        "Hyundai H1": 6800,
+        "Toyota Alphard": 15000,
+        "BMW 730": 35900,
+        "Mercedes S350": 35900
+    },
+    "Пранбури|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 3200,
+        "Toyota Innova": 3600,
+        "Toyota Fortuner": 3500,
+        "Toyota Commuter": 4500,
+        "Hyundai H1": 6900,
+        "Toyota Alphard": 15500,
+        "BMW 730": 37100,
+        "Mercedes S350": 37100
+    },
+    "Кхири Кхан|Паттайя": {
+        "Sedan": 5200,
+        "Toyota Innova": 5800,
+        "Toyota Fortuner": 5800,
+        "Toyota Commuter": 7300,
+        "Hyundai H1": 12400,
+        "Toyota Alphard": 25500,
+        "BMW 730": 60200,
+        "Mercedes S350": 60200
+    },
+    "Кхири Кхан|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 4300,
+        "Toyota Innova": 4800,
+        "Toyota Fortuner": 4900,
+        "Toyota Commuter": 5600,
+        "Hyundai H1": 8000,
+        "Toyota Alphard": 21000,
+        "BMW 730": 49800,
+        "Mercedes S350": 49800
+    },
+    "Кхири Кхан|Бангкок": {
+        "Sedan": 4300,
+        "Toyota Innova": 4800,
+        "Toyota Fortuner": 4900,
+        "Toyota Commuter": 5600,
+        "Hyundai H1": 8000,
+        "Toyota Alphard": 21000,
+        "BMW 730": 49800,
+        "Mercedes S350": 49800
+    },
+    "Кхири Кхан|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 4400,
+        "Toyota Innova": 4900,
+        "Toyota Fortuner": 5000,
+        "Toyota Commuter": 5700,
+        "Hyundai H1": 8200,
+        "Toyota Alphard": 21500,
+        "BMW 730": 50900,
+        "Mercedes S350": 50900
+    },
+    "Лопбури|Паттайя": {
+        "Sedan": 3700,
+        "Toyota Innova": 4200,
+        "Toyota Fortuner": 4300,
+        "Toyota Commuter": 5100,
+        "Hyundai H1": 8500,
+        "Toyota Alphard": 18000,
+        "BMW 730": 42900,
+        "Mercedes S350": 42900
+    },
+    "Лопбури|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 2400,
+        "Toyota Innova": 2800,
+        "Toyota Fortuner": 2800,
+        "Toyota Commuter": 3000,
+        "Hyundai H1": 5500,
+        "Toyota Alphard": 11500,
+        "BMW 730": 27900,
+        "Mercedes S350": 27900
+    },
+    "Лопбури|Бангкок": {
+        "Sedan": 2200,
+        "Toyota Innova": 2600,
+        "Toyota Fortuner": 2600,
+        "Toyota Commuter": 2800,
+        "Hyundai H1": 5200,
+        "Toyota Alphard": 10500,
+        "BMW 730": 25600,
+        "Mercedes S350": 25600
+    },
+    "Лопбури|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 2300,
+        "Toyota Innova": 2700,
+        "Toyota Fortuner": 2700,
+        "Toyota Commuter": 2900,
+        "Hyundai H1": 5400,
+        "Toyota Alphard": 11000,
+        "BMW 730": 26700,
+        "Mercedes S350": 26700
+    },
+    "Сукхотай|Паттайя": {
+        "Sedan": 8700,
+        "Toyota Innova": 9600,
+        "Toyota Fortuner": 9600,
+        "Toyota Commuter": 11600,
+        "Hyundai H1": 18400,
+        "Toyota Alphard": 43000,
+        "BMW 730": 100600,
+        "Mercedes S350": 100600
+    },
+    "Сукхотай|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 7200,
+        "Toyota Innova": 7900,
+        "Toyota Fortuner": 8000,
+        "Toyota Commuter": 10000,
+        "Hyundai H1": 16300,
+        "Toyota Alphard": 35500,
+        "BMW 730": 83300,
+        "Mercedes S350": 83300
+    },
+    "Сукхотай|Бангкок": {
+        "Sedan": 7200,
+        "Toyota Innova": 7900,
+        "Toyota Fortuner": 8000,
+        "Toyota Commuter": 10000,
+        "Hyundai H1": 16300,
+        "Toyota Alphard": 35500,
+        "BMW 730": 83300,
+        "Mercedes S350": 83300
+    },
+    "Сукхотай|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 7300,
+        "Toyota Innova": 8100,
+        "Toyota Fortuner": 8100,
+        "Toyota Commuter": 10100,
+        "Hyundai H1": 16400,
+        "Toyota Alphard": 36000,
+        "BMW 730": 84400,
+        "Mercedes S350": 84400
+    },
+    "На Джомтьен|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 1200,
+        "Toyota Innova": 1400,
+        "Toyota Fortuner": 1300,
+        "Toyota Commuter": 1600,
+        "Hyundai H1": 3100,
+        "Toyota Alphard": 5500,
+        "BMW 730": 14000,
+        "Mercedes S350": 14000
+    },
+    "На Джомтьен|Бангкок": {
+        "Sedan": 1500,
+        "Toyota Innova": 1700,
+        "Toyota Fortuner": 1700,
+        "Toyota Commuter": 2000,
+        "Hyundai H1": 3600,
+        "Toyota Alphard": 7000,
+        "BMW 730": 17500,
+        "Mercedes S350": 17500
+    },
+    "На Джомтьен|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 1800,
+        "Toyota Innova": 2100,
+        "Toyota Fortuner": 2100,
+        "Toyota Commuter": 2300,
+        "Hyundai H1": 4000,
+        "Toyota Alphard": 8500,
+        "BMW 730": 20900,
+        "Mercedes S350": 20900
+    },
+    "Нахон Ратчасима|Паттайя": {
+        "Sedan": 6200,
+        "Toyota Innova": 6900,
+        "Toyota Fortuner": 7000,
+        "Toyota Commuter": 8100,
+        "Hyundai H1": 13200,
+        "Toyota Alphard": 30500,
+        "BMW 730": 71700,
+        "Mercedes S350": 71700
+    },
+    "Нахон Ратчасима|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 5700,
+        "Toyota Innova": 6300,
+        "Toyota Fortuner": 6400,
+        "Toyota Commuter": 7600,
+        "Hyundai H1": 12500,
+        "Toyota Alphard": 28000,
+        "BMW 730": 66000,
+        "Mercedes S350": 66000
+    },
+    "Нахон Ратчасима|Бангкок": {
+        "Sedan": 5700,
+        "Toyota Innova": 6300,
+        "Toyota Fortuner": 6400,
+        "Toyota Commuter": 7600,
+        "Hyundai H1": 12500,
+        "Toyota Alphard": 28000,
+        "BMW 730": 66000,
+        "Mercedes S350": 66000
+    },
+    "Нахон Ратчасима|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 5800,
+        "Toyota Innova": 6400,
+        "Toyota Fortuner": 6500,
+        "Toyota Commuter": 7700,
+        "Hyundai H1": 12700,
+        "Toyota Alphard": 28500,
+        "BMW 730": 67100,
+        "Mercedes S350": 67100
+    },
+    "Пхукет|Паттайя": {
+        "Sedan": 11500,
+        "Toyota Innova": 12600,
+        "Toyota Fortuner": 12600,
+        "Toyota Commuter": 14700,
+        "Hyundai H1": 22700,
+        "Toyota Alphard": 57000,
+        "BMW 730": 132900,
+        "Mercedes S350": 132900
+    },
+    "Пхукет|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 9900,
+        "Toyota Innova": 10800,
+        "Toyota Fortuner": 10900,
+        "Toyota Commuter": 13100,
+        "Hyundai H1": 20500,
+        "Toyota Alphard": 49000,
+        "BMW 730": 114500,
+        "Mercedes S350": 114500
+    },
+    "Пхукет|Бангкок": {
+        "Sedan": 9900,
+        "Toyota Innova": 10800,
+        "Toyota Fortuner": 10900,
+        "Toyota Commuter": 13100,
+        "Hyundai H1": 20500,
+        "Toyota Alphard": 49000,
+        "BMW 730": 114500,
+        "Mercedes S350": 114500
+    },
+    "Краби|Паттайя": {
+        "Sedan": 12800,
+        "Toyota Innova": 14000,
+        "Toyota Fortuner": 14000,
+        "Toyota Commuter": 16100,
+        "Hyundai H1": 24100,
+        "Toyota Alphard": 63500,
+        "BMW 730": 148000,
+        "Mercedes S350": 148000
+    },
+    "Краби|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 11200,
+        "Toyota Innova": 12200,
+        "Toyota Fortuner": 12300,
+        "Toyota Commuter": 14400,
+        "Hyundai H1": 21900,
+        "Toyota Alphard": 55500,
+        "BMW 730": 129500,
+        "Mercedes S350": 129500
+    },
+    "Краби|Бангкок": {
+        "Sedan": 11200,
+        "Toyota Innova": 12200,
+        "Toyota Fortuner": 12300,
+        "Toyota Commuter": 14400,
+        "Hyundai H1": 21900,
+        "Toyota Alphard": 55500,
+        "BMW 730": 129500,
+        "Mercedes S350": 129500
+    },
+    "Сураттани|Паттайя": {
+        "Sedan": 11500,
+        "Toyota Innova": 12600,
+        "Toyota Fortuner": 12600,
+        "Toyota Commuter": 14700,
+        "Hyundai H1": 22700,
+        "Toyota Alphard": 57000,
+        "BMW 730": 132900,
+        "Mercedes S350": 132900
+    },
+    "Сураттани|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 9800,
+        "Toyota Innova": 10700,
+        "Toyota Fortuner": 10800,
+        "Toyota Commuter": 12900,
+        "Hyundai H1": 20500,
+        "Toyota Alphard": 48500,
+        "BMW 730": 113300,
+        "Mercedes S350": 113300
+    },
+    "Сураттани|Бангкок": {
+        "Sedan": 9800,
+        "Toyota Innova": 10700,
+        "Toyota Fortuner": 10800,
+        "Toyota Commuter": 12900,
+        "Hyundai H1": 20500,
+        "Toyota Alphard": 48500,
+        "BMW 730": 113300,
+        "Mercedes S350": 113300
+    },
+    "Банг Сарай|Аэропорт Суварнабхуми (BKK)": {
+        "Sedan": 1000,
+        "Toyota Innova": 1100,
+        "Toyota Fortuner": 1100,
+        "Toyota Commuter": 1500,
+        "Hyundai H1": 2900,
+        "Toyota Alphard": 4500,
+        "BMW 730": 11700,
+        "Mercedes S350": 11700
+    },
+    "Банг Сарай|Бангкок": {
+        "Sedan": 1400,
+        "Toyota Innova": 1500,
+        "Toyota Fortuner": 1500,
+        "Toyota Commuter": 1900,
+        "Hyundai H1": 3400,
+        "Toyota Alphard": 6500,
+        "BMW 730": 16300,
+        "Mercedes S350": 16300
+    },
+    "Банг Сарай|Аэропорт Дон Муанг (DMK)": {
+        "Sedan": 1700,
+        "Toyota Innova": 1800,
+        "Toyota Fortuner": 1800,
+        "Toyota Commuter": 2200,
+        "Hyundai H1": 3800,
+        "Toyota Alphard": 8000,
+        "BMW 730": 19800,
+        "Mercedes S350": 19800
+    },
+    "Паттайя|Бангкок|Round": {
+        "Sedan": 2900,
+        "Toyota Innova": 3200,
+        "Toyota Fortuner": 3100,
+        "Toyota Commuter": 4100,
+        "Hyundai H1": 6300,
+        "Toyota Alphard": 10800,
+        "BMW 730": 28800,
+        "Mercedes S350": 28800
+    },
+    "Бангкок|Паттайя|Round": {
+        "Sedan": 2900,
+        "Toyota Innova": 3200,
+        "Toyota Fortuner": 3100,
+        "Toyota Commuter": 4100,
+        "Hyundai H1": 6300,
+        "Toyota Alphard": 10800,
+        "BMW 730": 28800,
+        "Mercedes S350": 28800
+    }
+}
